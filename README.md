@@ -6,6 +6,7 @@
 
 1. Открыл сайт [github.com](https://github.com) и вошёл в свой аккаунт.
 2. Нажал кнопку **New repository** (Создать репозиторий).
+   <img width="1438" height="345" alt="image" src="https://github.com/user-attachments/assets/95192591-0101-46e1-b099-2ae0f07b87d6" />
 3. Указал название репозитория и при необходимости добавил краткое описание.
 4. Выбрал тип репозитория: **Public** или **Private**.
 5. Нажал кнопку **Create repository**.
